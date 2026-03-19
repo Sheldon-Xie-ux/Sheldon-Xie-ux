@@ -9,10 +9,9 @@
 - 每日 founder briefing
 
 ## 💡 背景
-- 华为 → 字节跳动（抖音本地生活）
+- 华为（商业化运营） → 字节跳动（抖音本地产品运营）
 - 金融机构在职，兼职创业探索
 - 佛法研究者
 
 ## 📫 联系
 - GitHub: https://github.com/Sheldon-Xie-ux
-- LinkedIn: 待补充
